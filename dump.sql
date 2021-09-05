@@ -6,5 +6,5 @@ INSERT INTO registration_info VALUES('mohamed', 'abdelhamid', 'aboda@gmail.com',
 
 CREATE TABLE project_info(title VARCHAR(20), details VARCHAR(100), total_target MONEY, start_date DATE, end_date DATE)
 
-create database
+
 
