@@ -1,4 +1,4 @@
-# iti-console-project
+# PYTHON-CRUD-CONSOLE-PROJECT
 iti-console-project connected with postgres
 
 #### To Run The Project First Create DataBase Test ( Code for data base creation is inside dump file ) 
